@@ -5,8 +5,7 @@ A simple two-player Pong game made in Python using Pygame.
 The game is played locally on one computer, with each player controlling a paddle on opposite sides of the screen. The ball gets faster every time it hits a paddle, so rallies become harder to keep going.
 
 ## Preview
-
-![Pong Game](Pong_View.png)
+https://github.com/user-attachments/assets/a117036a-6465-4b80-861f-ff77a9d23b5b
 
 ## How it works
 
