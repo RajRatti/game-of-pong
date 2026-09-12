@@ -1,4 +1,4 @@
-# Imports
+# Imports for the project
 import tkinter as tk
 import pygame
 import random
